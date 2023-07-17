@@ -41,3 +41,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 --->
+
+## :telephone: Contacts
+
+Viktar Rusakovich - Java developer 
+
+![EMail](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-gmail-48.png)  v1rusakovich@gmail.com<br>
+![LINKEDIN](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-линкедин-48.png)  [linkedin.com/in/rusakovich/](https://www.linkedin.com/in/rusakovich/)<br>
+![Telegram](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png)  [t.me/@Vitek11](https://t.me/Vitek11)<br>
+![Phone](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телефон-48.png)  +375447764651
