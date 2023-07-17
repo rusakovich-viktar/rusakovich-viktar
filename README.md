@@ -7,7 +7,7 @@
 </div>
 
 ### :man_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Hi, I’m @rusakovich-viktar, I'm Java developer, I'm studing in [TeachMeSkill.by](https://teachmeskills.by/)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Hi, I’m @rusakovich-viktar, I'm Java developer.
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
