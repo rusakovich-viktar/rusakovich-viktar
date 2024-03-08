@@ -1,3 +1,6 @@
+
+ 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=300&color=1293D2&center=true&multiline=true&width=435&height=120&lines=Hello+world%2C+I'm+Viktor;%3E%3E%3E++my+LinkedIn++%3C%3C%3C;I'm+Java+developer)](https://www.linkedin.com/in/rusakovich/)
 
 <div align="left">
@@ -46,3 +49,5 @@ Viktar Rusakovich - Java developer
 ![LINKEDIN](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-линкедин-48.png)  [linkedin.com/in/rusakovich/](https://www.linkedin.com/in/rusakovich/)<br>
 ![Telegram](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png)  [t.me/@Vitek11](https://t.me/Vitek11)<br>
 ![Phone](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телефон-48.png)  +375447764651
+
+OPEN TO WORK -резюме https://drive.google.com/file/d/1nc8UZCZYOynVQFc6raQDFdgTXyfr1Jrp/view?usp=drive_link
