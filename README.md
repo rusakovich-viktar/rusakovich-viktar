@@ -50,4 +50,4 @@ Viktar Rusakovich - Java developer
 ![Telegram](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png)  [t.me/@Vitek11](https://t.me/Vitek11)<br>
 ![Phone](https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телефон-48.png)  +375447764651
 
-OPEN TO WORK -резюме https://drive.google.com/file/d/1nc8UZCZYOynVQFc6raQDFdgTXyfr1Jrp/view?usp=drive_link
+OPEN TO WORK - [Link to my CV](https://drive.google.com/file/d/1m4DNg2Sac59wSSfnPynRksJhSX-BPxkZ/view?usp=drive_link)
