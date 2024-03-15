@@ -11,26 +11,17 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Hi, I’m @rusakovich-viktar, I'm Java developer.
  
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" **alt="spring" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" **alt="postgresql" width="50" height="50"/>&nbsp;
-       <img src="https://github.com/gilbarbara/logos/blob/main/logos/hibernate.svg" **alt="css" width="50" height="50"/>&nbsp;  
-     <img src="https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg" title="idea" **alt="idea" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/gilbarbara/logos/blob/main/logos/maven.svg" **alt="css" width="50" height="50"/>&nbsp;  
-       <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" title="tomcat" **alt="tomcat" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="50" height="50"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" **alt="html5" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" **alt="css" width="50" height="50"/>&nbsp;  
-   <img src="https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg" title="css" **alt="css" width="50" height="50"/>&nbsp;  
-
-   ### Tech Stack (in refactory)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![REST](https://img.shields.io/badge/rest-%236600ff.svg?style=for-the-badge&logo=rest&logoColor=white)
+![JPA](https://img.shields.io/badge/jpa-%23cc0000.svg?style=for-the-badge&logo=jpa&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/junit-%23749e00.svg?style=for-the-badge&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/mockito-%23c2000d.svg?style=for-the-badge&logo=mackito&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%23749e00.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Flyway](https://img.shields.io/badge/flyway-%23c2000d.svg?style=for-the-badge&logo=flyway&logoColor=white)
+![Liquibase](https://img.shields.io/badge/liquibase-316192?style=for-the-badge&logo=liquibase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
