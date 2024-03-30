@@ -6,9 +6,6 @@
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
-
-### :man_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Hi, I’m Viktar Rusakovich, I'm Java developer.
  
 ### :hammer_and_wrench: Languages and Tools :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,13 +29,20 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-## :telephone: Contacts
+## :man_technologist: Contacts
 
-Viktar Rusakovich - Java developer 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Victor Rusakovich - Java developer 
+    
+<p align="left"> 
+     <a href="mailto:v1rusakovich@gmail.com" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" title="v1rusakovich@gmail.com" width="40" width="40" height="40"   
+      alt="gmail"/>
+    </a>
+  <a href="https://t.me/Vitek11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png" /> <img src="https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png" width="40" height="40" /> </picture> </a>
+ <a href="https://www.github.com/rusakovich-viktar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> 
+  <a href="https://www.linkedin.com/in/rusakovich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
+</p>
 
-* ✉️  You can contact me at [v1rusakovich@gmail.com](mailto:v1rusakovich@gmail.com)
 * :telephone:  You can call me at +375447764651
-<p align="left"> <a href="https://www.github.com/rusakovich-viktar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.linkedin.com/in/rusakovich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a><a href="https://t.me/Vitek11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png" /> <img src="https://github.com/rusakovich-viktar/SpringOwlStore/raw/main/src/main/resources/static/icon/icons8-телеграмма-app-48.png" width="32" height="32" /> </picture> </a></p>
   
 OPEN TO WORK - [Link to my CV](https://drive.google.com/file/d/1m4DNg2Sac59wSSfnPynRksJhSX-BPxkZ/view?usp=drive_link)
