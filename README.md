@@ -44,5 +44,4 @@
 </p>
 
 * :telephone:  You can call me at +375447764651
-  
-OPEN TO WORK - [Link to my CV](https://drive.google.com/file/d/1m4DNg2Sac59wSSfnPynRksJhSX-BPxkZ/view?usp=drive_link)
+
